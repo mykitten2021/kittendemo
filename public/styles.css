@@ -1,0 +1,15 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    line-height: 25px;
+    font-weight: 300;
+    color: #5b6a76;
+    overflow-x: hidden; 
+}
+
+body,html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
