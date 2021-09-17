@@ -1,0 +1,23 @@
+.video-responsive {
+    width: 20vw;
+    height: 30vh;
+    position: relative;
+    margin: 1rem 0;
+    padding:10px;
+    @media screen and (max-width: 1000px) {
+        width: 40vw;
+    }    
+}
+
+.video-responsive iframe {
+    left: 0;
+    top: 0;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.videocontainer {
+    display: flex;
+    justify-content: space-evenly;
+}
