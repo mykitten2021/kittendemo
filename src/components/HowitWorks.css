@@ -1,0 +1,37 @@
+.circle-cat7{
+    background-image: url("https://d1575n23nv8eys.cloudfront.net/wp-content/uploads/2019/11/04142147/mykitten_hwd1.png");
+    background-position: center;
+}
+
+.circle-cat8{
+    background-image: url("https://d1575n23nv8eys.cloudfront.net/wp-content/uploads/2019/11/04142233/mykitten_hwd2.png");
+    background-position: center;
+}
+
+.circle-cat9{
+    background-image: url("https://d1575n23nv8eys.cloudfront.net/wp-content/uploads/2019/11/04142424/mykitten_hwd4.png");
+    background-position: center;
+}
+
+.circle-cat1{
+    position:relative;    
+    width:100px;
+    height:100px;       
+    -webkit-border-radius: 50px;  
+    -moz-border-radius: 50px;  
+    border-radius: 50px;
+}
+
+.cat-title1{
+    text-align:center;
+    vertical-align:bottom;
+    color:white;
+    background-color:rgba(0,0,0,0.5);
+    margin-top:85px;
+}
+
+.cat-title2{
+    width:15%;
+    text-align: center;
+    margin-top:20px;
+}

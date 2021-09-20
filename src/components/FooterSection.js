@@ -20,20 +20,20 @@ function FooterSection(){
             <a href="http://breeder.mykitten.in/" className="footer-button">Join as a Breeder<span class="sc_button_hover_icon"></span></a>
             </div>            
             </div>
-            <div className="social-icons">
+            <div className="social-icons ">
 
-            <div className="footer-icon">
+            <div className="footer-icon white-social">
                         <FontAwesomeIcon icon={faCamera} size={70} />
                     </div>
-                    <div className="footer-icon">   
+                    <div className="footer-icon white-social">   
                         <FontAwesomeIcon icon={faFacebook} />
                         </div>
-                    <div className="footer-icon">   
+                    <div className="footer-icon white-social">   
                         
                     
                         <FontAwesomeIcon icon={faComments} />
                         </div>
-                    <div className="footer-icon">   
+                    <div className="footer-icon white-social">   
                         <FontAwesomeIcon icon={faYoutube} />
                         </div>
                      

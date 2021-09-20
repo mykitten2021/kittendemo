@@ -1,0 +1,80 @@
+.catbreed-container{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+
+.catbreed-title {
+    color: #34c1e7;
+    font-size: 28px;
+    font-family: open sans;
+    text-align: center;
+    font-weight: bold;
+    padding: 30px;
+}
+
+.catbreed-sub {
+    text-align: center;
+    color: #b4c408;
+    font-size: 14px;
+    font-family: open sans;
+    font-weight: bold;
+    font-style: italic;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 50px;
+}
+
+.circle-container{
+    justify-content: space-around;
+    display:flex;
+}
+
+.circle-cat{
+    position:relative;    
+    width:200px;
+    height:200px;       
+    -webkit-border-radius: 100px;  
+    -moz-border-radius: 100px;  
+    border-radius:100px;
+}
+
+.circle-cat10{
+    background-image: url("https://d1575n23nv8eys.cloudfront.net/wp-content/uploads/2019/11/04150220/exotic_short_hair-250x250.jpeg");
+    background-position: center;
+}
+
+.circle-cat2{
+    background-image: url("https://d1575n23nv8eys.cloudfront.net/wp-content/uploads/2019/11/04162454/himalayanicon-250x250.jpeg");
+    background-position: center;
+}
+
+.circle-cat3{
+    background-image: url("https://d1575n23nv8eys.cloudfront.net/wp-content/uploads/2019/11/04162907/ragdollicon-250x250.jpeg");
+    background-position: center;
+}
+
+.circle-cat4{
+    background-image: url("https://d1575n23nv8eys.cloudfront.net/wp-content/uploads/2019/11/04150451/siamese-250x250.jpeg");
+    background-position: center;
+}
+
+.circle-cat5{
+    background-image: url("https://d1575n23nv8eys.cloudfront.net/wp-content/uploads/2019/11/04162737/persian_icon-250x250.jpeg");
+    background-position: center;
+}
+
+.circle-cat6{
+    background-image: url("https://d1575n23nv8eys.cloudfront.net/wp-content/uploads/2019/04/04200917/Mainecoon-3-250x250.jpg");
+    background-position: center;
+}
+
+
+
+.cat-title{
+    text-align:center;
+    vertical-align:bottom;
+    color:white;
+    background-color:rgba(0,0,0,0.5);
+    margin-top:175px;
+}
+

@@ -12,14 +12,15 @@
     width: 70%;
 }
 
-.imagetitle {
+.imagetitle{
     display: flex;
-    font-size: 150%;
-    font-weight: bold;
+    
     padding: 10px;
 }
 
 .titletest {
+    font-size: 150%;
+    font-weight: bold;
     margin-left: 20px;
 }
 
@@ -45,3 +46,22 @@
 .testimonial-image1 {
     order: 2
 }
+
+.review-star{
+    align-self:flex-end;
+    flex-grow: 2;
+    /* border:1px solid black; */
+    display:flex;
+    justify-content: flex-end;
+    margin-right:20px;
+    
+}
+
+.rating-text{
+    font-size:120%;   
+    padding-left:10px;
+    
+}
+
+
+
